@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WillkommenApp</string>
+    <string name="bienvenido">Willcommen</string>
+    <string name="entrar">Betreten</string>
+</resources>
